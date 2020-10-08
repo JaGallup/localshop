@@ -17,6 +17,7 @@ RUN apk add \
     jpeg \
     jpeg-dev \
     libc-dev \
+    libffi-dev \
     linux-headers \
     pcre-dev \
     postgresql-dev \
